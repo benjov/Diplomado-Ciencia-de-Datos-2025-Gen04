@@ -1,4 +1,4 @@
-# Diplomado-Ciencia-de-Datos-2025 Gen 03
+# Diplomado-Ciencia-de-Datos-2025 Gen 04
 
 INTRODUCCIÓN A LA CIENCIA DE DATOS: HERRAMIENTAS PARA EL APRENDIZAJE AUTOMATIZADO EN LAS CIENCIAS SOCIALES Y HUMANIDADES
 Facultad de Estudios Superiores Acatlán
@@ -9,7 +9,7 @@ Este repositorio contiene los scripts, notebooks y demás materiales del Módulo
 
 Acá te dejo los recursos de la clase:
 
-* Link de las pizzarras de clase: https://cideo365-my.sharepoint.com/:o:/g/personal/benjamin_oliva_cide_edu/El262dwBeYlKgVldpTXNoXoBh4ZpR82Wmy7QN6fw4vA9Vw?e=si2KLu
+* Link de las pizzarras de clase: https://gamesecon-my.sharepoint.com/:o:/p/boliva/Eokx516V-oZGpJRwBlQp71AB4QxlzQwLRTJ9qM6_Z1SEfw?e=HOnf4f
 
 Contacto: benjov@ciencias.unam.mx
 
