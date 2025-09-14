@@ -100,4 +100,6 @@ Evaluar el conocimiento adquirido sobre técnicas de procesamiento de lenguaje n
 •	Posibles usos en políticas públicas, ONGs, medios, etc.
 
 
-### Fecha de entrega: 28 de septiembre de 2025, enaviar código y reporte a benjov@ciencias.unam.mx
+**Nota: Usa el código "Lector de datos.ipynb" para leer los datos contenidos en "ViolenceAgainstWomen.json"**
+
+### Fecha de entrega: 5 de octubre de 2025, enaviar código y reporte a benjov@ciencias.unam.mx
